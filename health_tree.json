@@ -1,0 +1,294 @@
+{
+    "topic": "public health",
+    "subcategories": [
+      {
+        "category": "Epidemiology",
+        "keywords": ["epidemiology", "disease surveillance", "outbreak investigation", "biostatistics", "infectious diseases", "chronic diseases", "pandemics", "zoonotic diseases"],
+        "subcategories": [
+          {
+            "category": "Disease Types",
+            "subcategories": [
+              {
+                "category": "Infectious Diseases",
+                "subcategories": [
+                  {
+                    "category": "Bacterial Infections",
+                    "keywords": ["bacterial infections", "antibiotic resistance"]
+                  },
+                  {
+                    "category": "Viral Infections",
+                    "keywords": ["viral infections", "vaccines"]
+                  }
+                ]
+              },
+              {
+                "category": "Chronic Diseases",
+                "subcategories": [
+                  {
+                    "category": "Cardiovascular Diseases",
+                    "keywords": ["cardiovascular diseases", "heart disease", "stroke"]
+                  },
+                  {
+                    "category": "Metabolic Diseases",
+                    "keywords": ["metabolic diseases", "diabetes", "obesity"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Outbreak Investigation",
+            "subcategories": [
+              {
+                "category": "Pandemics",
+                "keywords": ["pandemics", "pandemic preparedness", "epidemic response"]
+              },
+              {
+                "category": "Zoonotic Diseases",
+                "keywords": ["zoonotic diseases", "animal-to-human transmission", "One Health"]
+              }
+            ]
+          },
+          {
+            "category": "Biostatistics",
+            "subcategories": [
+              {
+                "category": "Statistical Methods",
+                "keywords": ["statistical methods", "data analysis", "sampling techniques"]
+              },
+              {
+                "category": "Epidemiological Models",
+                "keywords": ["epidemiological models", "mathematical modeling", "simulation"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Health Policy",
+        "keywords": ["health policy", "health legislation", "health economics", "policy implementation"],
+        "subcategories": [
+          {
+            "category": "Policy Areas",
+            "subcategories": [
+              {
+                "category": "Access to Healthcare",
+                "keywords": ["access to healthcare", "health disparities", "healthcare equity"]
+              },
+              {
+                "category": "Insurance Policies",
+                "keywords": ["insurance policies", "health insurance", "public health coverage"]
+              }
+            ]
+          },
+          {
+            "category": "Economic Impact",
+            "subcategories": [
+              {
+                "category": "Cost-Benefit Analysis",
+                "keywords": ["cost-benefit analysis", "economic evaluation", "public health investment"]
+              },
+              {
+                "category": "Workplace Health",
+                "keywords": ["workplace health", "occupational health and safety", "employee wellness"]
+              }
+            ]
+          },
+          {
+            "category": "Implementation Strategies",
+            "subcategories": [
+              {
+                "category": "Health Campaigns",
+                "keywords": ["health campaigns", "public health messaging", "behavior change"]
+              },
+              {
+                "category": "Regulatory Compliance",
+                "keywords": ["regulatory compliance", "public health laws", "enforcement"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Preventive Medicine",
+        "keywords": ["preventive medicine", "vaccination programs", "childhood vaccines", "adult vaccines", "screening and early detection", "cancer screenings", "cardiovascular screenings", "health education", "school health programs", "community outreach"],
+        "subcategories": [
+          {
+            "category": "Vaccination Programs",
+            "subcategories": [
+              {
+                "category": "Childhood Vaccines",
+                "keywords": ["childhood vaccines", "immunization schedule", "vaccine safety"]
+              },
+              {
+                "category": "Adult Vaccines",
+                "keywords": ["adult vaccines", "vaccine recommendations", "booster shots"]
+              }
+            ]
+          },
+          {
+            "category": "Screening and Early Detection",
+            "subcategories": [
+              {
+                "category": "Cancer Screenings",
+                "keywords": ["cancer screenings", "early cancer detection", "screening guidelines"]
+              },
+              {
+                "category": "Cardiovascular Screenings",
+                "keywords": ["cardiovascular screenings", "heart health checks", "cholesterol screening"]
+              }
+            ]
+          },
+          {
+            "category": "Health Education",
+            "subcategories": [
+              {
+                "category": "School Health Programs",
+                "keywords": ["school health programs", "student wellness", "health education curriculum"]
+              },
+              {
+                "category": "Community Outreach",
+                "keywords": ["community outreach", "public health events", "health fairs"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Environmental Health",
+        "keywords": ["environmental health", "water quality", "air quality", "occupational health"],
+        "subcategories": [
+          {
+            "category": "Water Quality",
+            "subcategories": [
+              {
+                "category": "Drinking Water Safety",
+                "keywords": ["drinking water safety", "waterborne diseases", "water treatment"]
+              },
+              {
+                "category": "Water Pollution",
+                "keywords": ["water pollution", "environmental contaminants", "pollution control"]
+              }
+            ]
+          },
+          {
+            "category": "Air Quality",
+            "subcategories": [
+              {
+                "category": "Air Pollution",
+                "keywords": ["air pollution", "particulate matter", "emission standards"]
+              },
+              {
+                "category": "Indoor Air Quality",
+                "keywords": ["indoor air quality", "ventilation systems", "airborne allergens"]
+              }
+            ]
+          },
+          {
+            "category": "Occupational Health",
+            "subcategories": [
+              {
+                "category": "Workplace Safety",
+                "keywords": ["workplace safety", "occupational hazards", "ergonomics"]
+              },
+              {
+                "category": "Industrial Hygiene",
+                "keywords": ["industrial hygiene", "chemical exposure", "occupational health monitoring"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Global Health",
+        "keywords": ["global health", "international cooperation", "disease eradication", "humanitarian aid"],
+        "subcategories": [
+          {
+            "category": "International Cooperation",
+            "subcategories": [
+              {
+                "category": "Health Diplomacy",
+                "keywords": ["health diplomacy", "global health partnerships", "diplomatic initiatives"]
+              },
+              {
+                "category": "Cross-Border Collaboration",
+                "keywords": ["cross-border collaboration", "health agreements", "joint health initiatives"]
+              }
+            ]
+          },
+          {
+            "category": "Disease Eradication",
+            "subcategories": [
+              {
+                "category": "Vaccine Campaigns",
+                "keywords": ["vaccine campaigns", "eradication efforts", "global vaccination"]
+              },
+              {
+                "category": "Global Surveillance",
+                "keywords": ["global surveillance", "disease tracking", "worldwide monitoring"]
+              }
+            ]
+          },
+          {
+            "category": "Humanitarian Aid",
+            "subcategories": [
+              {
+                "category": "Emergency Response",
+                "keywords": ["emergency response", "disaster relief", "humanitarian assistance"]
+              },
+              {
+                "category": "Refugee Health",
+                "keywords": ["refugee health", "displaced populations", "healthcare in crises"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Respiratory Health",
+        "keywords": ["respiratory health", "asthma"],
+        "subcategories": [
+          {
+            "category": "Lung Diseases",
+            "subcategories": [
+              {
+                "category": "COPD",
+                "keywords": ["chronic obstructive pulmonary disease", "COPD", "smoking-related lung diseases"]
+              },
+              {
+                "category": "Pneumonia",
+                "keywords": ["pneumonia", "respiratory infections", "pneumococcal disease"]
+              }
+            ]
+          },
+          {
+            "category": "Allergies",
+            "subcategories": [
+              {
+                "category": "Seasonal Allergies",
+                "keywords": ["seasonal allergies", "pollen allergy", "hay fever"]
+              },
+              {
+                "category": "Food Allergies",
+                "keywords": ["food allergies", "allergic reactions", "anaphylaxis"]
+              }
+            ]
+          },
+          {
+            "category": "Occupational Respiratory Issues",
+            "subcategories": [
+              {
+                "category": "Work-Related Asthma",
+                "keywords": ["work-related asthma", "occupational asthma", "asthma triggers at work"]
+              },
+              {
+                "category": "Environmental Exposures",
+                "keywords": ["environmental exposures", "airborne irritants", "respiratory hazards"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
